@@ -1,4 +1,28 @@
 name: Helena Merk, Smartcar
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: jekyll-theme-modernist
+#remote_theme: willianjusten/will-jekyll-template
 
+# Site settings
+description: Looking to meet fantastic people, have creative conversations, and work on the next disruptive idea.
+title: Helena Merk
+
+# User settings
+username: helena merk
+user_description: Developer at Smartcar
+user_title: Developer at Smartcar
+email: helena@smartcar.com
+github_username:  helenamerk
+disqus_username: lorem_ipsum
+linkedin: helena-merk-4625229a
+
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
