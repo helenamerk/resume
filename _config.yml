@@ -9,7 +9,9 @@ plugins:
 
 # Site settings
 description: Looking to meet fantastic people, have creative conversations, and work on the next disruptive idea.
-title: Helena Merk
+title: Helena Merk Resume
+url: https://helenamerk.dev
+author: Helena Merk
 
 # User settings
 username: helena merk
